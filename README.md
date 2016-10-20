@@ -1,4 +1,4 @@
-# Curring edge RSS
+# Cutting edge RSS
 
 A list of RSS feeds for a « veille », like <https://github.com/ripienaar/free-for-dev> and <https://github.com/kahun/awesome-sysadmin> but for RSS :-)
 
